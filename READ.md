@@ -2,4 +2,5 @@
 	- parallax
 	- waypoints
 	- stellar
-	 
+	- jquery easing, http://gsgd.co.uk/sandbox/jquery/easing/
+	- 
